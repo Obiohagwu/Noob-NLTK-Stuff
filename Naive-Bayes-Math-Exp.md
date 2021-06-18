@@ -9,3 +9,5 @@ Naive Bayes is a simple technique for constructing classifiers: models that assi
 
 
 
+### Constructing a classifier from the probability model
+![Screen Shot 2021-06-18 at 4 52 18 AM](https://user-images.githubusercontent.com/73560826/122534873-f71e7080-cff0-11eb-95cf-318d2a7c1580.png)
